@@ -1,0 +1,27 @@
+Instalar Android Studio
+
+Instalar Flutter
+https://docs.flutter.dev/get-started/install
+
+Abrir Android Studio -> Tools -> SDK Manager -> pestaña SDK Tools -> Marcar Android SDK Command-line Tools (latest)
+
+al final
+flutter doctor
+flutter doctor --android-licenses
+y a todo
+
+Crear App
+View > Command Palette.
+Type “flutter”, and select the Flutter: New Project.
+Select Application.
+Create or select the parent directory for the new project folder.
+Enter a project name, such as my_app, and press Enter.
+Wait for project creation to complete and the main.dart file to appear.
+
+
+Probar app
+View
+Command Palette
+flutter select device   -- emulador
+
+flutter run
