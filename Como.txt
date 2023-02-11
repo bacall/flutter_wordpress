@@ -25,3 +25,6 @@ Command Palette
 flutter select device   -- emulador
 
 flutter run
+
+flutter build web --web-renderer html
+flutter run --web-renderer html

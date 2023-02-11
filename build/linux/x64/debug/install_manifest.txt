@@ -5,6 +5,7 @@
 /var/www/html/flutter/flutter_wordpress/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
 /var/www/html/flutter/flutter_wordpress/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
 /var/www/html/flutter/flutter_wordpress/build/linux/x64/debug/bundle/data/flutter_assets/assets/no-image.jpg
+/var/www/html/flutter/flutter_wordpress/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
 /var/www/html/flutter/flutter_wordpress/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
 /var/www/html/flutter/flutter_wordpress/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
 /var/www/html/flutter/flutter_wordpress/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json

@@ -5,6 +5,8 @@ const String domain="https://www.webprogramadorbarcelona.com";
 
 const domainUrlPosts= '$domain/wp-json/wp/v2/posts?_embed&?status=publish';
 const domainUrlPageInitial= '$domain/wp-json/wp/v2/pages?slug=Inicio&_embed&status=publish';
+//const domainUrlPageInitial= '$domain/wp-json/wp/v2/pages?link=$domain/&_embed&status=publish';
+//https://www.webprogramadorbarcelona.com/wp-json/wp/v2/pages?link=https://www.webprogramadorbarcelona.com/&_embed&status=publish
 const domainUrlCategories='$domain/wp-json/wp/v2/categories';
 const domainUrlCategoriesById='$domain/wp-json/wp/v2/posts?categories=';
 
